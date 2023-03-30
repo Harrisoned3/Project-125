@@ -1,0 +1,26 @@
+.heading {
+font-size:14px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 4px lightblue;
+}
+.copy_right_footer{
+position:fixed;
+color:white;
+bottom:0;
+background-color:#2479c9;
+line-height:3;
+text-align:center;
+width:100%;
+}
+canvas{border:5px solid white;
+border-radius:20px;
+box-shadow:5px 5px 7px Black;
+}
+body{
+background-size:cover;
+}
+#font {
+color:red;
+font-size:24px;
+}
